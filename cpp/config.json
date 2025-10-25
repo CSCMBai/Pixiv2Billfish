@@ -1,0 +1,16 @@
+{
+  "db_path": "billfish.db",
+  "use_proxies": false,
+  "http_proxy": "http://127.0.0.1:7890",
+  "https_proxy": "http://127.0.0.1:7890",
+  "write_tag": true,
+  "write_note": true,
+  "skip_existing": true,
+  "start_file_num": 0,
+  "end_file_num": 0,
+  "tag_thread_count": 8,
+  "note_thread_count": 8,
+  "request_timeout": 5,
+  "retry_count": 5,
+  "request_delay_ms": 100
+}
